@@ -1,4 +1,5 @@
 # Credit_Risk_Analysis
+Machine learning, sklearn, imblearn, statistics
 
 # Overview of the analysis
 The purpose of this analysis is to use the credit card credit dataset from LendingClub to oversample the data using RandomOverSampler and SMOTE algorithms, and undersample the data using the ClusterCentroids algorithm. Then we'll use a combinatorial approach of over and under sampling using the SMOTEENN algorithm. Then we'll compare two new models that reduce bias, BalancedRandomForestClassifier and EasyEnsembleClassifier, to predict credit risk.
